@@ -1,0 +1,17 @@
+{
+  "name": "ip-tracker-app",
+  "version": "1.0.0",
+  "main": "/index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "author": "Golikov Vlad",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.3"
+  }
+}
